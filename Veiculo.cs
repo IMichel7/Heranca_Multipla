@@ -1,4 +1,5 @@
-// Participantes: Michel Silva, [outros nomes aqui]
+// Participantes: Igor Antônio Coral Rodrigues,Eduardo Henckemaier
+// Lucas da Luz Vedana, Michel Furtado da Silva.
 namespace RevendaAuto;
 
 public abstract class Veiculo // Herança + Abstração

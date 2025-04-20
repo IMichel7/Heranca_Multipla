@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RevendaAuto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67bfdcafcb0062b60ce167ac98aeb6cbe2e908a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("RevendaAuto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RevendaAuto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

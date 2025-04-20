@@ -1,3 +1,5 @@
+// Participantes: Igor Antônio Coral Rodrigues,Eduardo Henckemaier
+// Lucas da Luz Vedana, Michel Furtado da Silva.
 namespace RevendaAuto;
 
 public class Carro : Veiculo

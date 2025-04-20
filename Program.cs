@@ -1,5 +1,5 @@
 ﻿// Participantes: Igor Antônio Coral Rodrigues,Eduardo Henckemaier
-// Lucas da Luz Vedana, Michel Furtado da Silva
+// Lucas da Luz Vedana, Michel Furtado da Silva.
 using System;
 using RevendaAuto;
 
