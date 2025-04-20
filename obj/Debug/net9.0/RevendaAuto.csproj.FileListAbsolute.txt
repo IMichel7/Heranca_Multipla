@@ -1,0 +1,14 @@
+C:\Users\Michel\Desktop\trabalhos\Herança Multipla\RevendaAuto\bin\Debug\net9.0\RevendaAuto.exe
+C:\Users\Michel\Desktop\trabalhos\Herança Multipla\RevendaAuto\bin\Debug\net9.0\RevendaAuto.deps.json
+C:\Users\Michel\Desktop\trabalhos\Herança Multipla\RevendaAuto\bin\Debug\net9.0\RevendaAuto.runtimeconfig.json
+C:\Users\Michel\Desktop\trabalhos\Herança Multipla\RevendaAuto\bin\Debug\net9.0\RevendaAuto.dll
+C:\Users\Michel\Desktop\trabalhos\Herança Multipla\RevendaAuto\bin\Debug\net9.0\RevendaAuto.pdb
+C:\Users\Michel\Desktop\trabalhos\Herança Multipla\RevendaAuto\obj\Debug\net9.0\RevendaAuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel\Desktop\trabalhos\Herança Multipla\RevendaAuto\obj\Debug\net9.0\RevendaAuto.AssemblyInfoInputs.cache
+C:\Users\Michel\Desktop\trabalhos\Herança Multipla\RevendaAuto\obj\Debug\net9.0\RevendaAuto.AssemblyInfo.cs
+C:\Users\Michel\Desktop\trabalhos\Herança Multipla\RevendaAuto\obj\Debug\net9.0\RevendaAuto.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Desktop\trabalhos\Herança Multipla\RevendaAuto\obj\Debug\net9.0\RevendaAuto.dll
+C:\Users\Michel\Desktop\trabalhos\Herança Multipla\RevendaAuto\obj\Debug\net9.0\refint\RevendaAuto.dll
+C:\Users\Michel\Desktop\trabalhos\Herança Multipla\RevendaAuto\obj\Debug\net9.0\RevendaAuto.pdb
+C:\Users\Michel\Desktop\trabalhos\Herança Multipla\RevendaAuto\obj\Debug\net9.0\RevendaAuto.genruntimeconfig.cache
+C:\Users\Michel\Desktop\trabalhos\Herança Multipla\RevendaAuto\obj\Debug\net9.0\ref\RevendaAuto.dll
